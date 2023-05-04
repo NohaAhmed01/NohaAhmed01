@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nohaahmed88/](https://www.linkedin.com/in/nohaahmed88/)
 
-- 💬 Ask me about **java, C**
+- 💬 Ask me about **Java, C**
 
 - 📫 How to reach me **nohaniho88@gmail.com**
 
