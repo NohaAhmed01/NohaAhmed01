@@ -2,8 +2,6 @@
 <h3 align="center">A passionate computer engineering student from Egypt</h3>
 <img align="right" alt"Coding Girl" width="400" src="https://media2.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif?cid=ecf05e47zpv9hm9diimiwyxny22vna5djm97wpllb73jw24c&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nohaahmed01&label=Profile%20views&color=0e75b6&style=flat" alt="nohaahmed01" /> </p>
-
 - 🌱 I’m currently learning **embedded systems**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nohaahmed88/](https://www.linkedin.com/in/nohaahmed88/)
