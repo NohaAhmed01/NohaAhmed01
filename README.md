@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **embedded systems**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nohaahmed88/](https://www.linkedin.com/in/nohaahmed88/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nohaahmed88/](https://www.linkedin.com/in/nohaahmed88/) and https://github.com/NohaAhmed01
 
 - 💬 Ask me about **Java, C**
 
