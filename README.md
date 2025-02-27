@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noha Ahmed</h1>
 <h3 align="center">A passionate computer engineering student from Egypt</h3>
-<img align="center" alt"Coding Girl" width="900" src="https://media2.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif?cid=ecf05e47zpv9hm9diimiwyxny22vna5djm97wpllb73jw24c&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-<br><br>
-
+<img align="center" alt"Coding Girl" width="100%" src="https://media2.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif?cid=ecf05e47zpv9hm9diimiwyxny22vna5djm97wpllb73jw24c&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<br>
 - 🌱 I’m currently learning **FrontEnd Web Design**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nohaahmed88/](https://www.linkedin.com/in/nohaahmed88/) and https://github.com/NohaAhmed01
