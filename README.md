@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Noha Ahmed</h1>
-<h3 align="center">A passionate computer engineering student from Egypt</h3>
-<img align="center" alt"Coding Girl" width="100%" src="https://media2.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif?cid=ecf05e47zpv9hm9diimiwyxny22vna5djm97wpllb73jw24c&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-<br>
-- 🌱 I’m currently learning **FrontEnd Web Design**
+<h3 align="center">Aspiring Frontend Developer | Passionate about crafting interactive web experiences 🚀</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nohaahmed88/](https://www.linkedin.com/in/nohaahmed88/) and https://github.com/NohaAhmed01
+<img align="center" alt="Coding Girl" width="100%" src="https://media2.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif?cid=ecf05e47zpv9hm9diimiwyxny22vna5djm97wpllb73jw24c&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+### 🌱 About Me
+- 🎨 I’m currently learning **React.js, JavaScript ES6+, and modern CSS frameworks**  
+- 🚀 Passionate about creating responsive and user-friendly websites  
+- 💡 Exploring **APIs, UI/UX principles, and frontend best practices**  
 
-- 📫 How to reach me **nohaniho88@gmail.com**
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NohaAhmed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nohaahmed88/)
+[![GitHub](https://img.shields.io/badge/GitHub-NohaAhmed01-181717?style=for-the-badge&logo=github)](https://github.com/NohaAhmed01)
+[![Email](https://img.shields.io/badge/Gmail-noha.ahmed.mohamed01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noha.ahmed.mohamed01@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
-<a href="https://fb.com/noha ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noha ahmed" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nohaahmed01&show_icons=true&locale=en&layout=compact" alt="nohaahmed01" /></p>
-
-
+💡 *"Building the web, one line of code at a time!"* ✨
